@@ -1,0 +1,601 @@
+education_level,domain,interests,skills,aptitude,preferred_work_style,career
+10th,Engineering,AI,"SQL, Machine Learning",Analytical,Field,Data Scientist
+12th,Engineering,AI,"SQL, Python",Analytical,Hybrid,Data Scientist
+10th,Engineering,Statistics,"Machine Learning, Python",Analytical,Desk,Data Scientist
+10th,Engineering,AI,"Python, SQL",Analytical,Hybrid,Data Scientist
+12th,Engineering,Statistics,"SQL, Machine Learning",Analytical,Field,Data Scientist
+Graduate,Engineering,Statistics,"Machine Learning, Python",Analytical,Field,Data Scientist
+Graduate,Engineering,Data,"Machine Learning, Python",Analytical,Field,Data Scientist
+Diploma,Engineering,AI,"Python, Machine Learning",Analytical,Desk,Data Scientist
+Diploma,Engineering,Data,"SQL, Machine Learning",Analytical,Desk,Data Scientist
+Graduate,Engineering,Statistics,"Python, Machine Learning",Analytical,Desk,Data Scientist
+Postgraduate,Engineering,Data,"SQL, Machine Learning",Analytical,Hybrid,Data Scientist
+12th,Engineering,Statistics,"Python, SQL",Analytical,Field,Data Scientist
+Diploma,Engineering,AI,"Python, SQL",Analytical,Creative,Data Scientist
+Diploma,Engineering,Data,"SQL, Machine Learning",Analytical,Field,Data Scientist
+Diploma,Engineering,Data,"Python, Machine Learning",Analytical,Desk,Data Scientist
+Postgraduate,Engineering,Statistics,"Python, SQL",Analytical,Field,Data Scientist
+Graduate,Engineering,Data,"Machine Learning, Python",Analytical,Research,Data Scientist
+10th,Engineering,AI,"Python, Machine Learning",Analytical,Creative,Data Scientist
+Diploma,Engineering,AI,"Python, Machine Learning",Analytical,Field,Data Scientist
+Graduate,Engineering,Data,"SQL, Machine Learning",Analytical,Field,Data Scientist
+Diploma,Engineering,AI,"Python, Machine Learning",Analytical,Hybrid,Data Scientist
+Graduate,Engineering,Statistics,"Machine Learning, SQL",Analytical,Field,Data Scientist
+12th,Engineering,Statistics,"Machine Learning, Python",Analytical,Desk,Data Scientist
+10th,Engineering,AI,"SQL, Python",Analytical,Creative,Data Scientist
+Postgraduate,Engineering,AI,"Machine Learning, SQL",Analytical,Hybrid,Data Scientist
+Graduate,Engineering,Statistics,"Machine Learning, Python",Analytical,Desk,Data Scientist
+Postgraduate,Engineering,Data,"SQL, Machine Learning",Analytical,Desk,Data Scientist
+Diploma,Engineering,Data,"Python, Machine Learning",Analytical,Desk,Data Scientist
+Diploma,Engineering,Statistics,"Python, SQL",Analytical,Research,Data Scientist
+Postgraduate,Engineering,Statistics,"Python, SQL",Analytical,Research,Data Scientist
+12th,Engineering,Statistics,"SQL, Python",Analytical,Hybrid,Data Scientist
+Diploma,Engineering,Data,"Python, SQL",Analytical,Research,Data Scientist
+Diploma,Engineering,AI,"Python, SQL",Analytical,Hybrid,Data Scientist
+10th,Engineering,AI,"SQL, Machine Learning",Analytical,Desk,Data Scientist
+Postgraduate,Engineering,AI,"Python, Machine Learning",Analytical,Hybrid,Data Scientist
+12th,Engineering,Data,"SQL, Machine Learning",Analytical,Field,Data Scientist
+Postgraduate,Engineering,Statistics,"SQL, Python",Analytical,Research,Data Scientist
+Graduate,Engineering,Statistics,"SQL, Machine Learning",Analytical,Creative,Data Scientist
+Postgraduate,Engineering,Data,"Python, SQL",Analytical,Field,Data Scientist
+10th,Engineering,Data,"Python, SQL",Analytical,Hybrid,Data Scientist
+12th,Engineering,AI,"Python, SQL",Analytical,Field,Data Scientist
+10th,Engineering,AI,"Machine Learning, Python",Analytical,Hybrid,Data Scientist
+12th,Engineering,Data,"SQL, Machine Learning",Analytical,Field,Data Scientist
+Postgraduate,Engineering,AI,"SQL, Machine Learning",Analytical,Field,Data Scientist
+Graduate,Engineering,Data,"Python, SQL",Analytical,Desk,Data Scientist
+Graduate,Engineering,Data,"Machine Learning, SQL",Analytical,Creative,Data Scientist
+10th,Engineering,Statistics,"SQL, Python",Analytical,Desk,Data Scientist
+Graduate,Engineering,Statistics,"Machine Learning, Python",Analytical,Field,Data Scientist
+12th,Engineering,AI,"SQL, Machine Learning",Analytical,Field,Data Scientist
+Graduate,Engineering,AI,"Machine Learning, SQL",Analytical,Field,Data Scientist
+10th,Engineering,Data,"SQL, Python",Analytical,Desk,Data Scientist
+Postgraduate,Engineering,AI,"Python, SQL",Analytical,Field,Data Scientist
+Graduate,Engineering,Data,"Machine Learning, Python",Analytical,Creative,Data Scientist
+10th,Engineering,AI,"Machine Learning, Python",Analytical,Creative,Data Scientist
+Diploma,Engineering,Data,"Machine Learning, SQL",Analytical,Hybrid,Data Scientist
+Graduate,Engineering,AI,"Python, Machine Learning",Analytical,Field,Data Scientist
+10th,Engineering,Statistics,"SQL, Python",Analytical,Research,Data Scientist
+10th,Engineering,AI,"SQL, Machine Learning",Analytical,Hybrid,Data Scientist
+Postgraduate,Engineering,AI,"Python, SQL",Analytical,Field,Data Scientist
+10th,Engineering,Statistics,"Python, SQL",Analytical,Creative,Data Scientist
+10th,Engineering,Statistics,"Python, SQL",Analytical,Hybrid,Data Scientist
+10th,Engineering,Data,"SQL, Machine Learning",Analytical,Research,Data Scientist
+12th,Engineering,Statistics,"SQL, Machine Learning",Analytical,Field,Data Scientist
+Diploma,Engineering,Data,"Python, Machine Learning",Analytical,Creative,Data Scientist
+Diploma,Engineering,AI,"Python, Machine Learning",Analytical,Hybrid,Data Scientist
+Postgraduate,Engineering,AI,"Python, SQL",Analytical,Hybrid,Data Scientist
+Diploma,Engineering,AI,"Machine Learning, Python",Analytical,Field,Data Scientist
+Diploma,Engineering,Data,"Python, Machine Learning",Analytical,Hybrid,Data Scientist
+Diploma,Engineering,Statistics,"SQL, Python",Analytical,Hybrid,Data Scientist
+Diploma,Engineering,Statistics,"Python, SQL",Analytical,Research,Data Scientist
+10th,Engineering,AI,"SQL, Python",Analytical,Research,Data Scientist
+Diploma,Engineering,Statistics,"Python, Machine Learning",Analytical,Field,Data Scientist
+Diploma,Engineering,Statistics,"Machine Learning, SQL",Analytical,Desk,Data Scientist
+10th,Engineering,Statistics,"Machine Learning, SQL",Analytical,Desk,Data Scientist
+10th,Engineering,Data,"Python, Machine Learning",Analytical,Field,Data Scientist
+Graduate,Engineering,Statistics,"SQL, Machine Learning",Analytical,Hybrid,Data Scientist
+10th,Engineering,AI,"Python, SQL",Analytical,Hybrid,Data Scientist
+10th,Engineering,Data,"SQL, Python",Analytical,Creative,Data Scientist
+12th,Engineering,AI,"Machine Learning, SQL",Analytical,Desk,Data Scientist
+Diploma,Engineering,AI,"SQL, Python",Analytical,Desk,Data Scientist
+Diploma,Engineering,Statistics,"Machine Learning, Python",Analytical,Field,Data Scientist
+12th,Engineering,AI,"Machine Learning, Python",Analytical,Field,Data Scientist
+Diploma,Engineering,Data,"SQL, Python",Analytical,Research,Data Scientist
+12th,Engineering,Statistics,"Python, Machine Learning",Analytical,Desk,Data Scientist
+Graduate,Engineering,AI,"Python, Machine Learning",Analytical,Research,Data Scientist
+Diploma,Engineering,AI,"Python, SQL",Analytical,Field,Data Scientist
+Graduate,Engineering,Data,"Machine Learning, Python",Analytical,Research,Data Scientist
+Diploma,Engineering,Statistics,"SQL, Machine Learning",Analytical,Hybrid,Data Scientist
+Diploma,Engineering,AI,"Python, Machine Learning",Analytical,Field,Data Scientist
+Postgraduate,Engineering,Data,"Python, SQL",Analytical,Hybrid,Data Scientist
+Graduate,Engineering,Data,"SQL, Machine Learning",Analytical,Creative,Data Scientist
+Postgraduate,Engineering,Statistics,"Python, Machine Learning",Analytical,Hybrid,Data Scientist
+12th,Engineering,Data,"Python, Machine Learning",Analytical,Desk,Data Scientist
+Postgraduate,Engineering,Statistics,"SQL, Python",Analytical,Research,Data Scientist
+Graduate,Engineering,AI,"SQL, Machine Learning",Analytical,Hybrid,Data Scientist
+Diploma,Engineering,Statistics,"Python, Machine Learning",Analytical,Hybrid,Data Scientist
+Diploma,Engineering,Statistics,"Machine Learning, SQL",Analytical,Creative,Data Scientist
+Diploma,Engineering,Statistics,"Python, SQL",Analytical,Creative,Data Scientist
+Graduate,Engineering,Statistics,"SQL, Python",Analytical,Hybrid,Data Scientist
+Postgraduate,Engineering,Data,"Machine Learning, Python",Analytical,Research,Data Scientist
+Diploma,Engineering,AI,"Machine Learning, SQL",Analytical,Creative,Data Scientist
+Graduate,Engineering,Data,"SQL, Python",Analytical,Hybrid,Data Scientist
+Graduate,Engineering,Statistics,"Python, SQL",Analytical,Research,Data Scientist
+Postgraduate,Engineering,Statistics,"SQL, Machine Learning",Analytical,Desk,Data Scientist
+12th,Engineering,Statistics,"Machine Learning, Python",Analytical,Field,Data Scientist
+12th,Engineering,AI,"Python, SQL",Analytical,Creative,Data Scientist
+Postgraduate,Engineering,AI,"Machine Learning, SQL",Analytical,Hybrid,Data Scientist
+12th,Engineering,Statistics,"SQL, Machine Learning",Analytical,Creative,Data Scientist
+Graduate,Engineering,AI,"Python, SQL",Analytical,Desk,Data Scientist
+Graduate,Engineering,AI,"Python, Machine Learning",Analytical,Desk,Data Scientist
+Postgraduate,Engineering,AI,"Python, Machine Learning",Analytical,Field,Data Scientist
+Graduate,Engineering,Statistics,"SQL, Machine Learning",Analytical,Creative,Data Scientist
+Postgraduate,Engineering,Statistics,"SQL, Machine Learning",Analytical,Hybrid,Data Scientist
+Graduate,Engineering,AI,"SQL, Machine Learning",Analytical,Creative,Data Scientist
+Diploma,Engineering,AI,"SQL, Machine Learning",Analytical,Hybrid,Data Scientist
+Graduate,Engineering,Statistics,"Python, Machine Learning",Analytical,Creative,Data Scientist
+10th,Engineering,Statistics,"Machine Learning, Python",Analytical,Research,Data Scientist
+Diploma,Engineering,Data,"SQL, Python",Analytical,Field,Data Scientist
+12th,Engineering,AI,"Machine Learning, Python",Analytical,Field,Data Scientist
+10th,Engineering,Data,"Machine Learning, SQL",Analytical,Hybrid,Data Scientist
+Graduate,Engineering,Problem Solving,"Java, DSA",Logical,Creative,Software Developer
+Graduate,Engineering,Programming,"DSA, Python",Logical,Creative,Software Developer
+10th,Engineering,Problem Solving,"Python, DSA",Logical,Creative,Software Developer
+Postgraduate,Engineering,Programming,"Python, Java",Logical,Research,Software Developer
+Graduate,Engineering,Problem Solving,"Java, Python",Logical,Research,Software Developer
+Graduate,Engineering,Programming,"Python, Java",Logical,Hybrid,Software Developer
+Postgraduate,Engineering,Programming,"Python, Java",Logical,Desk,Software Developer
+Graduate,Engineering,Programming,"Python, Java",Logical,Desk,Software Developer
+Diploma,Engineering,Problem Solving,"Python, Java",Logical,Creative,Software Developer
+Diploma,Engineering,Problem Solving,"Python, DSA",Logical,Creative,Software Developer
+Diploma,Engineering,Programming,"Python, Java",Logical,Hybrid,Software Developer
+10th,Engineering,Problem Solving,"Java, DSA",Logical,Desk,Software Developer
+10th,Engineering,Programming,"Java, DSA",Logical,Hybrid,Software Developer
+12th,Engineering,Programming,"Java, Python",Logical,Desk,Software Developer
+Postgraduate,Engineering,Programming,"Python, DSA",Logical,Research,Software Developer
+12th,Engineering,Programming,"Java, Python",Logical,Desk,Software Developer
+Postgraduate,Engineering,Programming,"Python, DSA",Logical,Creative,Software Developer
+12th,Engineering,Programming,"DSA, Java",Logical,Desk,Software Developer
+Diploma,Engineering,Programming,"DSA, Java",Logical,Research,Software Developer
+Postgraduate,Engineering,Problem Solving,"DSA, Python",Logical,Desk,Software Developer
+Postgraduate,Engineering,Problem Solving,"Java, Python",Logical,Creative,Software Developer
+10th,Engineering,Problem Solving,"Python, DSA",Logical,Field,Software Developer
+Graduate,Engineering,Programming,"DSA, Python",Logical,Hybrid,Software Developer
+Postgraduate,Engineering,Problem Solving,"Python, DSA",Logical,Hybrid,Software Developer
+Diploma,Engineering,Problem Solving,"Java, DSA",Logical,Research,Software Developer
+Graduate,Engineering,Programming,"Python, DSA",Logical,Research,Software Developer
+10th,Engineering,Problem Solving,"Python, Java",Logical,Creative,Software Developer
+12th,Engineering,Problem Solving,"Python, DSA",Logical,Research,Software Developer
+Postgraduate,Engineering,Problem Solving,"DSA, Java",Logical,Hybrid,Software Developer
+12th,Engineering,Programming,"Java, Python",Logical,Creative,Software Developer
+Postgraduate,Engineering,Programming,"DSA, Python",Logical,Creative,Software Developer
+Graduate,Engineering,Programming,"Java, Python",Logical,Field,Software Developer
+Graduate,Engineering,Programming,"Python, DSA",Logical,Creative,Software Developer
+Postgraduate,Engineering,Problem Solving,"Python, DSA",Logical,Research,Software Developer
+Graduate,Engineering,Problem Solving,"Python, DSA",Logical,Field,Software Developer
+10th,Engineering,Programming,"Python, Java",Logical,Hybrid,Software Developer
+12th,Engineering,Programming,"Java, Python",Logical,Research,Software Developer
+Postgraduate,Engineering,Problem Solving,"Java, DSA",Logical,Research,Software Developer
+12th,Engineering,Problem Solving,"Java, Python",Logical,Desk,Software Developer
+Postgraduate,Engineering,Programming,"Python, Java",Logical,Desk,Software Developer
+Postgraduate,Engineering,Problem Solving,"DSA, Java",Logical,Creative,Software Developer
+10th,Engineering,Programming,"DSA, Python",Logical,Creative,Software Developer
+Graduate,Engineering,Problem Solving,"Python, Java",Logical,Desk,Software Developer
+Diploma,Engineering,Problem Solving,"Java, DSA",Logical,Creative,Software Developer
+Graduate,Engineering,Programming,"DSA, Java",Logical,Field,Software Developer
+12th,Engineering,Problem Solving,"Java, DSA",Logical,Desk,Software Developer
+Postgraduate,Engineering,Problem Solving,"DSA, Java",Logical,Hybrid,Software Developer
+Graduate,Engineering,Problem Solving,"Python, DSA",Logical,Hybrid,Software Developer
+Graduate,Engineering,Problem Solving,"DSA, Java",Logical,Hybrid,Software Developer
+10th,Engineering,Programming,"DSA, Java",Logical,Research,Software Developer
+10th,Engineering,Programming,"Java, DSA",Logical,Hybrid,Software Developer
+10th,Engineering,Programming,"Java, Python",Logical,Creative,Software Developer
+Postgraduate,Engineering,Problem Solving,"Python, Java",Logical,Field,Software Developer
+Diploma,Engineering,Problem Solving,"DSA, Python",Logical,Desk,Software Developer
+12th,Engineering,Problem Solving,"DSA, Java",Logical,Creative,Software Developer
+10th,Engineering,Programming,"DSA, Java",Logical,Research,Software Developer
+12th,Engineering,Programming,"Java, DSA",Logical,Research,Software Developer
+Postgraduate,Engineering,Problem Solving,"Python, Java",Logical,Creative,Software Developer
+Diploma,Engineering,Problem Solving,"Python, DSA",Logical,Creative,Software Developer
+10th,Engineering,Programming,"Python, DSA",Logical,Hybrid,Software Developer
+Diploma,Engineering,Programming,"Java, DSA",Logical,Hybrid,Software Developer
+Postgraduate,Engineering,Programming,"DSA, Python",Logical,Hybrid,Software Developer
+10th,Engineering,Programming,"Python, DSA",Logical,Research,Software Developer
+12th,Engineering,Problem Solving,"DSA, Python",Logical,Desk,Software Developer
+Graduate,Engineering,Problem Solving,"Python, DSA",Logical,Research,Software Developer
+10th,Engineering,Programming,"Python, DSA",Logical,Creative,Software Developer
+Diploma,Engineering,Problem Solving,"DSA, Java",Logical,Creative,Software Developer
+10th,Engineering,Problem Solving,"Python, DSA",Logical,Desk,Software Developer
+Graduate,Engineering,Programming,"DSA, Python",Logical,Creative,Software Developer
+10th,Engineering,Programming,"DSA, Python",Logical,Hybrid,Software Developer
+Graduate,Engineering,Problem Solving,"Java, DSA",Logical,Research,Software Developer
+Postgraduate,Engineering,Programming,"Python, DSA",Logical,Creative,Software Developer
+10th,Engineering,Programming,"DSA, Java",Logical,Field,Software Developer
+Diploma,Engineering,Programming,"DSA, Python",Logical,Desk,Software Developer
+12th,Engineering,Programming,"Python, Java",Logical,Field,Software Developer
+Graduate,Engineering,Problem Solving,"DSA, Python",Logical,Creative,Software Developer
+Graduate,Engineering,Problem Solving,"Java, Python",Logical,Hybrid,Software Developer
+12th,Engineering,Problem Solving,"Java, DSA",Logical,Desk,Software Developer
+Diploma,Engineering,Problem Solving,"Python, DSA",Logical,Desk,Software Developer
+Diploma,Engineering,Problem Solving,"DSA, Python",Logical,Field,Software Developer
+Graduate,Engineering,Problem Solving,"Python, DSA",Logical,Hybrid,Software Developer
+Postgraduate,Engineering,Problem Solving,"Python, DSA",Logical,Field,Software Developer
+12th,Engineering,Problem Solving,"Java, Python",Logical,Desk,Software Developer
+Diploma,Engineering,Problem Solving,"DSA, Python",Logical,Creative,Software Developer
+12th,Engineering,Problem Solving,"Java, DSA",Logical,Hybrid,Software Developer
+Postgraduate,Engineering,Problem Solving,"Java, Python",Logical,Desk,Software Developer
+Postgraduate,Engineering,Problem Solving,"Java, DSA",Logical,Creative,Software Developer
+12th,Engineering,Programming,"Python, DSA",Logical,Research,Software Developer
+Postgraduate,Engineering,Problem Solving,"DSA, Java",Logical,Research,Software Developer
+Postgraduate,Engineering,Problem Solving,"Python, DSA",Logical,Hybrid,Software Developer
+10th,Engineering,Programming,"Java, Python",Logical,Field,Software Developer
+10th,Engineering,Problem Solving,"Java, DSA",Logical,Creative,Software Developer
+12th,Engineering,Problem Solving,"Java, DSA",Logical,Research,Software Developer
+10th,Engineering,Problem Solving,"Python, DSA",Logical,Creative,Software Developer
+12th,Engineering,Programming,"DSA, Python",Logical,Hybrid,Software Developer
+12th,Engineering,Programming,"Java, DSA",Logical,Hybrid,Software Developer
+Graduate,Engineering,Programming,"Python, Java",Logical,Field,Software Developer
+Graduate,Engineering,Problem Solving,"Python, DSA",Logical,Desk,Software Developer
+Graduate,Engineering,Problem Solving,"DSA, Java",Logical,Desk,Software Developer
+Graduate,Engineering,Problem Solving,"DSA, Python",Logical,Creative,Software Developer
+Diploma,Engineering,Problem Solving,"Python, Java",Logical,Creative,Software Developer
+Graduate,Engineering,Programming,"Java, Python",Logical,Hybrid,Software Developer
+Diploma,Engineering,Problem Solving,"DSA, Python",Logical,Desk,Software Developer
+Graduate,Engineering,Problem Solving,"Java, DSA",Logical,Hybrid,Software Developer
+Graduate,Engineering,Problem Solving,"Java, Python",Logical,Field,Software Developer
+12th,Engineering,Problem Solving,"DSA, Java",Logical,Desk,Software Developer
+10th,Engineering,Problem Solving,"Python, Java",Logical,Hybrid,Software Developer
+Diploma,Engineering,Programming,"Java, Python",Logical,Research,Software Developer
+Graduate,Engineering,Programming,"Java, DSA",Logical,Hybrid,Software Developer
+Diploma,Engineering,Problem Solving,"Java, Python",Logical,Creative,Software Developer
+Diploma,Engineering,Problem Solving,"Java, Python",Logical,Desk,Software Developer
+12th,Engineering,Programming,"DSA, Python",Logical,Hybrid,Software Developer
+Diploma,Engineering,Programming,"Python, Java",Logical,Research,Software Developer
+Postgraduate,Engineering,Programming,"Python, DSA",Logical,Research,Software Developer
+Postgraduate,Engineering,Problem Solving,"DSA, Python",Logical,Desk,Software Developer
+12th,Engineering,Problem Solving,"Java, Python",Logical,Hybrid,Software Developer
+12th,Engineering,Programming,"DSA, Python",Logical,Research,Software Developer
+Graduate,Engineering,Programming,"Java, DSA",Logical,Desk,Software Developer
+Diploma,Engineering,Problem Solving,"Java, DSA",Logical,Field,Software Developer
+Postgraduate,Engineering,Programming,"Python, DSA",Logical,Research,Software Developer
+Postgraduate,Commerce,Accounting,"Auditing, Accounting",Numerical,Creative,Chartered Accountant
+10th,Commerce,Accounting,"Auditing, Taxation",Numerical,Research,Chartered Accountant
+10th,Commerce,Accounting,"Accounting, Taxation",Numerical,Creative,Chartered Accountant
+12th,Commerce,Accounting,"Accounting, Taxation",Numerical,Hybrid,Chartered Accountant
+Diploma,Commerce,Finance,"Taxation, Auditing",Numerical,Field,Chartered Accountant
+10th,Commerce,Accounting,"Accounting, Auditing",Numerical,Hybrid,Chartered Accountant
+10th,Commerce,Finance,"Taxation, Accounting",Numerical,Field,Chartered Accountant
+Postgraduate,Commerce,Finance,"Accounting, Auditing",Numerical,Hybrid,Chartered Accountant
+12th,Commerce,Finance,"Taxation, Accounting",Numerical,Hybrid,Chartered Accountant
+10th,Commerce,Accounting,"Accounting, Auditing",Numerical,Hybrid,Chartered Accountant
+Diploma,Commerce,Finance,"Accounting, Auditing",Numerical,Field,Chartered Accountant
+10th,Commerce,Accounting,"Accounting, Taxation",Numerical,Desk,Chartered Accountant
+12th,Commerce,Accounting,"Accounting, Auditing",Numerical,Creative,Chartered Accountant
+Postgraduate,Commerce,Finance,"Auditing, Accounting",Numerical,Creative,Chartered Accountant
+Graduate,Commerce,Accounting,"Auditing, Accounting",Numerical,Creative,Chartered Accountant
+Postgraduate,Commerce,Finance,"Auditing, Accounting",Numerical,Hybrid,Chartered Accountant
+Diploma,Commerce,Accounting,"Auditing, Accounting",Numerical,Desk,Chartered Accountant
+Graduate,Commerce,Accounting,"Taxation, Accounting",Numerical,Creative,Chartered Accountant
+Graduate,Commerce,Finance,"Accounting, Taxation",Numerical,Hybrid,Chartered Accountant
+12th,Commerce,Finance,"Accounting, Taxation",Numerical,Hybrid,Chartered Accountant
+Postgraduate,Commerce,Accounting,"Taxation, Auditing",Numerical,Creative,Chartered Accountant
+Postgraduate,Commerce,Accounting,"Accounting, Auditing",Numerical,Hybrid,Chartered Accountant
+12th,Commerce,Accounting,"Taxation, Accounting",Numerical,Creative,Chartered Accountant
+Diploma,Commerce,Accounting,"Taxation, Auditing",Numerical,Desk,Chartered Accountant
+Diploma,Commerce,Accounting,"Taxation, Auditing",Numerical,Research,Chartered Accountant
+12th,Commerce,Accounting,"Accounting, Auditing",Numerical,Desk,Chartered Accountant
+10th,Commerce,Accounting,"Accounting, Taxation",Numerical,Field,Chartered Accountant
+Postgraduate,Commerce,Finance,"Auditing, Taxation",Numerical,Desk,Chartered Accountant
+Graduate,Commerce,Accounting,"Auditing, Taxation",Numerical,Desk,Chartered Accountant
+Diploma,Commerce,Accounting,"Taxation, Accounting",Numerical,Hybrid,Chartered Accountant
+Postgraduate,Commerce,Finance,"Accounting, Taxation",Numerical,Field,Chartered Accountant
+10th,Commerce,Accounting,"Auditing, Taxation",Numerical,Desk,Chartered Accountant
+Diploma,Commerce,Finance,"Taxation, Accounting",Numerical,Hybrid,Chartered Accountant
+Diploma,Commerce,Finance,"Accounting, Taxation",Numerical,Research,Chartered Accountant
+Diploma,Commerce,Accounting,"Accounting, Auditing",Numerical,Field,Chartered Accountant
+Postgraduate,Commerce,Accounting,"Accounting, Auditing",Numerical,Desk,Chartered Accountant
+10th,Commerce,Finance,"Taxation, Auditing",Numerical,Creative,Chartered Accountant
+Diploma,Commerce,Finance,"Taxation, Auditing",Numerical,Research,Chartered Accountant
+Postgraduate,Commerce,Finance,"Accounting, Auditing",Numerical,Field,Chartered Accountant
+Postgraduate,Commerce,Finance,"Auditing, Accounting",Numerical,Research,Chartered Accountant
+Graduate,Commerce,Accounting,"Taxation, Auditing",Numerical,Creative,Chartered Accountant
+Diploma,Commerce,Finance,"Auditing, Accounting",Numerical,Research,Chartered Accountant
+Graduate,Commerce,Finance,"Taxation, Auditing",Numerical,Hybrid,Chartered Accountant
+Diploma,Commerce,Finance,"Accounting, Taxation",Numerical,Hybrid,Chartered Accountant
+10th,Commerce,Finance,"Accounting, Taxation",Numerical,Field,Chartered Accountant
+12th,Commerce,Accounting,"Taxation, Auditing",Numerical,Desk,Chartered Accountant
+10th,Commerce,Accounting,"Auditing, Taxation",Numerical,Field,Chartered Accountant
+12th,Commerce,Accounting,"Auditing, Accounting",Numerical,Hybrid,Chartered Accountant
+Postgraduate,Commerce,Accounting,"Accounting, Taxation",Numerical,Desk,Chartered Accountant
+Graduate,Commerce,Finance,"Taxation, Accounting",Numerical,Research,Chartered Accountant
+Postgraduate,Commerce,Accounting,"Auditing, Taxation",Numerical,Creative,Chartered Accountant
+Diploma,Commerce,Finance,"Taxation, Accounting",Numerical,Research,Chartered Accountant
+12th,Commerce,Accounting,"Auditing, Taxation",Numerical,Desk,Chartered Accountant
+Graduate,Commerce,Finance,"Accounting, Taxation",Numerical,Hybrid,Chartered Accountant
+Graduate,Commerce,Finance,"Taxation, Auditing",Numerical,Research,Chartered Accountant
+12th,Commerce,Accounting,"Accounting, Auditing",Numerical,Hybrid,Chartered Accountant
+10th,Commerce,Finance,"Taxation, Auditing",Numerical,Field,Chartered Accountant
+12th,Commerce,Finance,"Accounting, Taxation",Numerical,Field,Chartered Accountant
+12th,Commerce,Finance,"Auditing, Accounting",Numerical,Field,Chartered Accountant
+Graduate,Commerce,Accounting,"Auditing, Taxation",Numerical,Hybrid,Chartered Accountant
+Postgraduate,Commerce,Accounting,"Auditing, Taxation",Numerical,Field,Chartered Accountant
+Graduate,Commerce,Finance,"Taxation, Auditing",Numerical,Research,Chartered Accountant
+Diploma,Commerce,Finance,"Taxation, Accounting",Numerical,Research,Chartered Accountant
+Graduate,Commerce,Accounting,"Accounting, Auditing",Numerical,Research,Chartered Accountant
+Diploma,Commerce,Finance,"Auditing, Accounting",Numerical,Hybrid,Chartered Accountant
+Postgraduate,Commerce,Accounting,"Taxation, Accounting",Numerical,Creative,Chartered Accountant
+Postgraduate,Commerce,Finance,"Taxation, Auditing",Numerical,Hybrid,Chartered Accountant
+12th,Commerce,Finance,"Taxation, Accounting",Numerical,Research,Chartered Accountant
+10th,Commerce,Finance,"Accounting, Auditing",Numerical,Creative,Chartered Accountant
+Graduate,Commerce,Finance,"Taxation, Auditing",Numerical,Research,Chartered Accountant
+Graduate,Commerce,Accounting,"Taxation, Accounting",Numerical,Research,Chartered Accountant
+10th,Commerce,Accounting,"Accounting, Taxation",Numerical,Research,Chartered Accountant
+Diploma,Commerce,Finance,"Taxation, Accounting",Numerical,Hybrid,Chartered Accountant
+12th,Commerce,Accounting,"Taxation, Auditing",Numerical,Field,Chartered Accountant
+Postgraduate,Commerce,Finance,"Taxation, Auditing",Numerical,Research,Chartered Accountant
+12th,Commerce,Finance,"Auditing, Taxation",Numerical,Hybrid,Chartered Accountant
+Diploma,Commerce,Finance,"Taxation, Auditing",Numerical,Field,Chartered Accountant
+12th,Commerce,Accounting,"Taxation, Accounting",Numerical,Field,Chartered Accountant
+12th,Commerce,Finance,"Accounting, Taxation",Numerical,Desk,Chartered Accountant
+Postgraduate,Commerce,Finance,"Auditing, Taxation",Numerical,Hybrid,Chartered Accountant
+12th,Commerce,Accounting,"Accounting, Auditing",Numerical,Field,Chartered Accountant
+Postgraduate,Commerce,Finance,"Auditing, Taxation",Numerical,Desk,Chartered Accountant
+Graduate,Commerce,Accounting,"Auditing, Accounting",Numerical,Creative,Chartered Accountant
+Postgraduate,Commerce,Accounting,"Auditing, Taxation",Numerical,Field,Chartered Accountant
+Postgraduate,Commerce,Finance,"Taxation, Auditing",Numerical,Field,Chartered Accountant
+Diploma,Commerce,Accounting,"Taxation, Auditing",Numerical,Creative,Chartered Accountant
+Postgraduate,Commerce,Accounting,"Accounting, Auditing",Numerical,Hybrid,Chartered Accountant
+12th,Commerce,Accounting,"Accounting, Taxation",Numerical,Research,Chartered Accountant
+Postgraduate,Commerce,Finance,"Auditing, Accounting",Numerical,Research,Chartered Accountant
+10th,Commerce,Finance,"Taxation, Auditing",Numerical,Hybrid,Chartered Accountant
+12th,Commerce,Accounting,"Accounting, Auditing",Numerical,Creative,Chartered Accountant
+Diploma,Commerce,Finance,"Taxation, Accounting",Numerical,Creative,Chartered Accountant
+Postgraduate,Commerce,Accounting,"Accounting, Taxation",Numerical,Desk,Chartered Accountant
+Diploma,Commerce,Finance,"Accounting, Taxation",Numerical,Desk,Chartered Accountant
+Diploma,Commerce,Finance,"Accounting, Auditing",Numerical,Research,Chartered Accountant
+Graduate,Commerce,Finance,"Auditing, Taxation",Numerical,Creative,Chartered Accountant
+Postgraduate,Commerce,Finance,"Accounting, Auditing",Numerical,Research,Chartered Accountant
+12th,Commerce,Finance,"Auditing, Taxation",Numerical,Desk,Chartered Accountant
+Diploma,Commerce,Finance,"Taxation, Accounting",Numerical,Desk,Chartered Accountant
+12th,Commerce,Accounting,"Auditing, Taxation",Numerical,Desk,Chartered Accountant
+10th,Commerce,Accounting,"Auditing, Accounting",Numerical,Hybrid,Chartered Accountant
+Postgraduate,Commerce,Finance,"Auditing, Accounting",Numerical,Research,Chartered Accountant
+Graduate,Commerce,Finance,"Auditing, Taxation",Numerical,Field,Chartered Accountant
+Postgraduate,Commerce,Accounting,"Accounting, Auditing",Numerical,Hybrid,Chartered Accountant
+Diploma,Commerce,Finance,"Auditing, Accounting",Numerical,Creative,Chartered Accountant
+Graduate,Commerce,Finance,"Auditing, Taxation",Numerical,Research,Chartered Accountant
+Diploma,Commerce,Finance,"Taxation, Accounting",Numerical,Research,Chartered Accountant
+12th,Commerce,Finance,"Auditing, Taxation",Numerical,Field,Chartered Accountant
+10th,Commerce,Accounting,"Auditing, Taxation",Numerical,Field,Chartered Accountant
+Graduate,Commerce,Accounting,"Auditing, Accounting",Numerical,Field,Chartered Accountant
+10th,Commerce,Accounting,"Accounting, Taxation",Numerical,Field,Chartered Accountant
+10th,Commerce,Finance,"Accounting, Taxation",Numerical,Research,Chartered Accountant
+Postgraduate,Commerce,Accounting,"Auditing, Taxation",Numerical,Research,Chartered Accountant
+10th,Commerce,Finance,"Taxation, Auditing",Numerical,Desk,Chartered Accountant
+Diploma,Commerce,Accounting,"Accounting, Taxation",Numerical,Creative,Chartered Accountant
+Graduate,Commerce,Accounting,"Taxation, Auditing",Numerical,Field,Chartered Accountant
+Graduate,Commerce,Accounting,"Taxation, Auditing",Numerical,Desk,Chartered Accountant
+Graduate,Commerce,Finance,"Taxation, Accounting",Numerical,Hybrid,Chartered Accountant
+Diploma,Commerce,Accounting,"Accounting, Auditing",Numerical,Research,Chartered Accountant
+Diploma,Commerce,Accounting,"Taxation, Auditing",Numerical,Field,Chartered Accountant
+Graduate,Arts,Design,"Illustrator, Photoshop",Creative,Research,Graphic Designer
+Postgraduate,Arts,Design,"Illustrator, Photoshop",Creative,Desk,Graphic Designer
+Graduate,Arts,Design,"Photoshop, Illustrator",Creative,Field,Graphic Designer
+Postgraduate,Arts,Design,"Photoshop, Illustrator",Creative,Desk,Graphic Designer
+12th,Arts,Design,"Illustrator, Photoshop",Creative,Hybrid,Graphic Designer
+10th,Arts,Creativity,"Illustrator, Photoshop",Creative,Research,Graphic Designer
+Graduate,Arts,Creativity,"Photoshop, Illustrator",Creative,Creative,Graphic Designer
+Diploma,Arts,Design,"Photoshop, Illustrator",Creative,Desk,Graphic Designer
+12th,Arts,Design,"Illustrator, Photoshop",Creative,Research,Graphic Designer
+Diploma,Arts,Design,"Photoshop, Illustrator",Creative,Creative,Graphic Designer
+12th,Arts,Creativity,"Photoshop, Illustrator",Creative,Creative,Graphic Designer
+12th,Arts,Design,"Photoshop, Illustrator",Creative,Research,Graphic Designer
+10th,Arts,Design,"Illustrator, Photoshop",Creative,Field,Graphic Designer
+Diploma,Arts,Creativity,"Photoshop, Illustrator",Creative,Field,Graphic Designer
+12th,Arts,Design,"Photoshop, Illustrator",Creative,Hybrid,Graphic Designer
+Postgraduate,Arts,Design,"Illustrator, Photoshop",Creative,Hybrid,Graphic Designer
+10th,Arts,Creativity,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+Postgraduate,Arts,Design,"Illustrator, Photoshop",Creative,Field,Graphic Designer
+Diploma,Arts,Creativity,"Illustrator, Photoshop",Creative,Hybrid,Graphic Designer
+Diploma,Arts,Creativity,"Photoshop, Illustrator",Creative,Creative,Graphic Designer
+Postgraduate,Arts,Creativity,"Photoshop, Illustrator",Creative,Research,Graphic Designer
+12th,Arts,Creativity,"Illustrator, Photoshop",Creative,Research,Graphic Designer
+Postgraduate,Arts,Design,"Photoshop, Illustrator",Creative,Field,Graphic Designer
+Postgraduate,Arts,Design,"Photoshop, Illustrator",Creative,Hybrid,Graphic Designer
+Postgraduate,Arts,Creativity,"Photoshop, Illustrator",Creative,Field,Graphic Designer
+Postgraduate,Arts,Design,"Photoshop, Illustrator",Creative,Desk,Graphic Designer
+10th,Arts,Design,"Photoshop, Illustrator",Creative,Hybrid,Graphic Designer
+10th,Arts,Design,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+12th,Arts,Design,"Illustrator, Photoshop",Creative,Desk,Graphic Designer
+10th,Arts,Creativity,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+Graduate,Arts,Creativity,"Illustrator, Photoshop",Creative,Research,Graphic Designer
+Diploma,Arts,Design,"Illustrator, Photoshop",Creative,Research,Graphic Designer
+Postgraduate,Arts,Creativity,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+10th,Arts,Design,"Illustrator, Photoshop",Creative,Field,Graphic Designer
+10th,Arts,Creativity,"Illustrator, Photoshop",Creative,Hybrid,Graphic Designer
+Graduate,Arts,Creativity,"Photoshop, Illustrator",Creative,Hybrid,Graphic Designer
+Diploma,Arts,Creativity,"Photoshop, Illustrator",Creative,Hybrid,Graphic Designer
+Graduate,Arts,Design,"Illustrator, Photoshop",Creative,Desk,Graphic Designer
+10th,Arts,Design,"Illustrator, Photoshop",Creative,Field,Graphic Designer
+Postgraduate,Arts,Design,"Photoshop, Illustrator",Creative,Research,Graphic Designer
+Graduate,Arts,Design,"Illustrator, Photoshop",Creative,Desk,Graphic Designer
+Graduate,Arts,Creativity,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+Diploma,Arts,Creativity,"Illustrator, Photoshop",Creative,Hybrid,Graphic Designer
+Postgraduate,Arts,Creativity,"Illustrator, Photoshop",Creative,Desk,Graphic Designer
+Graduate,Arts,Design,"Illustrator, Photoshop",Creative,Field,Graphic Designer
+10th,Arts,Design,"Illustrator, Photoshop",Creative,Hybrid,Graphic Designer
+Diploma,Arts,Creativity,"Photoshop, Illustrator",Creative,Hybrid,Graphic Designer
+10th,Arts,Creativity,"Photoshop, Illustrator",Creative,Research,Graphic Designer
+Graduate,Arts,Design,"Photoshop, Illustrator",Creative,Research,Graphic Designer
+Postgraduate,Arts,Design,"Photoshop, Illustrator",Creative,Hybrid,Graphic Designer
+Diploma,Arts,Design,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+10th,Arts,Design,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+Postgraduate,Arts,Design,"Photoshop, Illustrator",Creative,Research,Graphic Designer
+Postgraduate,Arts,Creativity,"Photoshop, Illustrator",Creative,Field,Graphic Designer
+Postgraduate,Arts,Design,"Photoshop, Illustrator",Creative,Desk,Graphic Designer
+Postgraduate,Arts,Creativity,"Photoshop, Illustrator",Creative,Creative,Graphic Designer
+Diploma,Arts,Design,"Photoshop, Illustrator",Creative,Field,Graphic Designer
+Graduate,Arts,Design,"Photoshop, Illustrator",Creative,Hybrid,Graphic Designer
+12th,Arts,Design,"Illustrator, Photoshop",Creative,Research,Graphic Designer
+12th,Arts,Design,"Illustrator, Photoshop",Creative,Research,Graphic Designer
+Postgraduate,Arts,Design,"Photoshop, Illustrator",Creative,Research,Graphic Designer
+Postgraduate,Arts,Design,"Photoshop, Illustrator",Creative,Research,Graphic Designer
+12th,Arts,Design,"Illustrator, Photoshop",Creative,Research,Graphic Designer
+Postgraduate,Arts,Design,"Illustrator, Photoshop",Creative,Hybrid,Graphic Designer
+Postgraduate,Arts,Design,"Illustrator, Photoshop",Creative,Field,Graphic Designer
+Diploma,Arts,Creativity,"Illustrator, Photoshop",Creative,Research,Graphic Designer
+Graduate,Arts,Design,"Illustrator, Photoshop",Creative,Field,Graphic Designer
+Postgraduate,Arts,Design,"Illustrator, Photoshop",Creative,Desk,Graphic Designer
+Postgraduate,Arts,Creativity,"Photoshop, Illustrator",Creative,Hybrid,Graphic Designer
+12th,Arts,Creativity,"Photoshop, Illustrator",Creative,Creative,Graphic Designer
+Diploma,Arts,Design,"Photoshop, Illustrator",Creative,Desk,Graphic Designer
+Postgraduate,Arts,Creativity,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+12th,Arts,Design,"Illustrator, Photoshop",Creative,Desk,Graphic Designer
+10th,Arts,Creativity,"Photoshop, Illustrator",Creative,Creative,Graphic Designer
+12th,Arts,Creativity,"Illustrator, Photoshop",Creative,Field,Graphic Designer
+Diploma,Arts,Creativity,"Photoshop, Illustrator",Creative,Hybrid,Graphic Designer
+Postgraduate,Arts,Creativity,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+Postgraduate,Arts,Design,"Photoshop, Illustrator",Creative,Research,Graphic Designer
+12th,Arts,Creativity,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+Diploma,Arts,Creativity,"Photoshop, Illustrator",Creative,Research,Graphic Designer
+Postgraduate,Arts,Creativity,"Photoshop, Illustrator",Creative,Creative,Graphic Designer
+Postgraduate,Arts,Design,"Photoshop, Illustrator",Creative,Desk,Graphic Designer
+12th,Arts,Creativity,"Illustrator, Photoshop",Creative,Field,Graphic Designer
+10th,Arts,Design,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+Diploma,Arts,Design,"Illustrator, Photoshop",Creative,Research,Graphic Designer
+Diploma,Arts,Creativity,"Photoshop, Illustrator",Creative,Creative,Graphic Designer
+Diploma,Arts,Creativity,"Illustrator, Photoshop",Creative,Desk,Graphic Designer
+Diploma,Arts,Design,"Photoshop, Illustrator",Creative,Field,Graphic Designer
+Graduate,Arts,Creativity,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+Postgraduate,Arts,Design,"Photoshop, Illustrator",Creative,Hybrid,Graphic Designer
+10th,Arts,Design,"Illustrator, Photoshop",Creative,Hybrid,Graphic Designer
+10th,Arts,Creativity,"Photoshop, Illustrator",Creative,Field,Graphic Designer
+Diploma,Arts,Design,"Photoshop, Illustrator",Creative,Hybrid,Graphic Designer
+Graduate,Arts,Creativity,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+12th,Arts,Design,"Illustrator, Photoshop",Creative,Hybrid,Graphic Designer
+Graduate,Arts,Design,"Photoshop, Illustrator",Creative,Research,Graphic Designer
+10th,Arts,Creativity,"Photoshop, Illustrator",Creative,Creative,Graphic Designer
+Diploma,Arts,Creativity,"Photoshop, Illustrator",Creative,Creative,Graphic Designer
+10th,Arts,Design,"Illustrator, Photoshop",Creative,Field,Graphic Designer
+Graduate,Arts,Design,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+Graduate,Arts,Creativity,"Photoshop, Illustrator",Creative,Desk,Graphic Designer
+12th,Arts,Design,"Photoshop, Illustrator",Creative,Desk,Graphic Designer
+10th,Arts,Design,"Illustrator, Photoshop",Creative,Hybrid,Graphic Designer
+Graduate,Arts,Creativity,"Photoshop, Illustrator",Creative,Research,Graphic Designer
+12th,Arts,Design,"Photoshop, Illustrator",Creative,Desk,Graphic Designer
+Graduate,Arts,Creativity,"Photoshop, Illustrator",Creative,Desk,Graphic Designer
+10th,Arts,Creativity,"Illustrator, Photoshop",Creative,Field,Graphic Designer
+10th,Arts,Design,"Illustrator, Photoshop",Creative,Hybrid,Graphic Designer
+12th,Arts,Creativity,"Photoshop, Illustrator",Creative,Field,Graphic Designer
+Postgraduate,Arts,Design,"Illustrator, Photoshop",Creative,Research,Graphic Designer
+12th,Arts,Creativity,"Illustrator, Photoshop",Creative,Research,Graphic Designer
+10th,Arts,Creativity,"Illustrator, Photoshop",Creative,Desk,Graphic Designer
+Diploma,Arts,Design,"Illustrator, Photoshop",Creative,Creative,Graphic Designer
+12th,Arts,Design,"Illustrator, Photoshop",Creative,Hybrid,Graphic Designer
+Graduate,Arts,Creativity,"Photoshop, Illustrator",Creative,Field,Graphic Designer
+Graduate,Arts,Creativity,"Illustrator, Photoshop",Creative,Hybrid,Graphic Designer
+Postgraduate,Arts,Creativity,"Illustrator, Photoshop",Creative,Research,Graphic Designer
+12th,Arts,Design,"Photoshop, Illustrator",Creative,Research,Graphic Designer
+10th,Arts,Creativity,"Photoshop, Illustrator",Creative,Creative,Graphic Designer
+Postgraduate,Arts,Creativity,"Photoshop, Illustrator",Creative,Hybrid,Graphic Designer
+Postgraduate,Medical,Biology,"Patient Care, Diagnosis",Empathy,Research,Medical Doctor
+Diploma,Medical,Biology,"Diagnosis, Patient Care",Empathy,Desk,Medical Doctor
+Graduate,Medical,Biology,"Diagnosis, Patient Care",Empathy,Field,Medical Doctor
+Postgraduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+Postgraduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Research,Medical Doctor
+Postgraduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+Diploma,Medical,Biology,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+10th,Medical,Biology,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+Postgraduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Field,Medical Doctor
+Diploma,Medical,Biology,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+Postgraduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+Graduate,Medical,Biology,"Patient Care, Diagnosis",Empathy,Field,Medical Doctor
+Postgraduate,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Hybrid,Medical Doctor
+10th,Medical,Biology,"Diagnosis, Patient Care",Empathy,Creative,Medical Doctor
+12th,Medical,Biology,"Diagnosis, Patient Care",Empathy,Desk,Medical Doctor
+12th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Hybrid,Medical Doctor
+Postgraduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+Postgraduate,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Hybrid,Medical Doctor
+Diploma,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Field,Medical Doctor
+10th,Medical,Biology,"Diagnosis, Patient Care",Empathy,Field,Medical Doctor
+Postgraduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+10th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Hybrid,Medical Doctor
+12th,Medical,Biology,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+10th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Hybrid,Medical Doctor
+Graduate,Medical,Biology,"Diagnosis, Patient Care",Empathy,Desk,Medical Doctor
+Graduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Hybrid,Medical Doctor
+10th,Medical,Biology,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+10th,Medical,Biology,"Patient Care, Diagnosis",Empathy,Field,Medical Doctor
+Diploma,Medical,Biology,"Diagnosis, Patient Care",Empathy,Creative,Medical Doctor
+10th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Hybrid,Medical Doctor
+Graduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+Postgraduate,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Creative,Medical Doctor
+12th,Medical,Biology,"Patient Care, Diagnosis",Empathy,Research,Medical Doctor
+10th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Field,Medical Doctor
+Diploma,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Hybrid,Medical Doctor
+Graduate,Medical,Biology,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+10th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Field,Medical Doctor
+Graduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+10th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Research,Medical Doctor
+10th,Medical,Biology,"Diagnosis, Patient Care",Empathy,Creative,Medical Doctor
+Graduate,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Desk,Medical Doctor
+Diploma,Medical,Biology,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+Diploma,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Hybrid,Medical Doctor
+12th,Medical,Biology,"Patient Care, Diagnosis",Empathy,Field,Medical Doctor
+Diploma,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Field,Medical Doctor
+10th,Medical,Biology,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+Diploma,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+12th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Desk,Medical Doctor
+12th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+Postgraduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Research,Medical Doctor
+Graduate,Medical,Biology,"Patient Care, Diagnosis",Empathy,Hybrid,Medical Doctor
+12th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+Diploma,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Research,Medical Doctor
+Graduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+Postgraduate,Medical,Biology,"Diagnosis, Patient Care",Empathy,Creative,Medical Doctor
+12th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+Graduate,Medical,Biology,"Patient Care, Diagnosis",Empathy,Research,Medical Doctor
+12th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+Postgraduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Hybrid,Medical Doctor
+10th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Field,Medical Doctor
+Diploma,Medical,Biology,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+Graduate,Medical,Biology,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+12th,Medical,Biology,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+Graduate,Medical,Biology,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+10th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+12th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+12th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+Graduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Research,Medical Doctor
+10th,Medical,Biology,"Diagnosis, Patient Care",Empathy,Desk,Medical Doctor
+12th,Medical,Biology,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+Postgraduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+12th,Medical,Biology,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+Postgraduate,Medical,Biology,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+10th,Medical,Biology,"Diagnosis, Patient Care",Empathy,Desk,Medical Doctor
+Postgraduate,Medical,Biology,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+12th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Creative,Medical Doctor
+Postgraduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Hybrid,Medical Doctor
+10th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Hybrid,Medical Doctor
+12th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+10th,Medical,Biology,"Patient Care, Diagnosis",Empathy,Field,Medical Doctor
+Diploma,Medical,Biology,"Patient Care, Diagnosis",Empathy,Hybrid,Medical Doctor
+12th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+Postgraduate,Medical,Biology,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+12th,Medical,Biology,"Patient Care, Diagnosis",Empathy,Hybrid,Medical Doctor
+10th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Field,Medical Doctor
+12th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+Graduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+Postgraduate,Medical,Biology,"Diagnosis, Patient Care",Empathy,Desk,Medical Doctor
+Diploma,Medical,Biology,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+Postgraduate,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+Postgraduate,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Hybrid,Medical Doctor
+12th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+10th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+Graduate,Medical,Biology,"Diagnosis, Patient Care",Empathy,Hybrid,Medical Doctor
+Diploma,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Field,Medical Doctor
+12th,Medical,Biology,"Patient Care, Diagnosis",Empathy,Hybrid,Medical Doctor
+Postgraduate,Medical,Biology,"Patient Care, Diagnosis",Empathy,Research,Medical Doctor
+Postgraduate,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Creative,Medical Doctor
+10th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Field,Medical Doctor
+12th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Creative,Medical Doctor
+12th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+10th,Medical,Biology,"Patient Care, Diagnosis",Empathy,Research,Medical Doctor
+Graduate,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+Graduate,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Field,Medical Doctor
+Graduate,Medical,Biology,"Patient Care, Diagnosis",Empathy,Research,Medical Doctor
+Diploma,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+10th,Medical,Biology,"Diagnosis, Patient Care",Empathy,Desk,Medical Doctor
+10th,Medical,Biology,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+Graduate,Medical,Biology,"Diagnosis, Patient Care",Empathy,Field,Medical Doctor
+Diploma,Medical,Biology,"Patient Care, Diagnosis",Empathy,Desk,Medical Doctor
+Diploma,Medical,Biology,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+12th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Desk,Medical Doctor
+12th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Hybrid,Medical Doctor
+12th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Research,Medical Doctor
+10th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Desk,Medical Doctor
+12th,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Desk,Medical Doctor
+Diploma,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Creative,Medical Doctor
+12th,Medical,Biology,"Diagnosis, Patient Care",Empathy,Hybrid,Medical Doctor
+12th,Medical,Healthcare,"Patient Care, Diagnosis",Empathy,Field,Medical Doctor
+Graduate,Medical,Healthcare,"Diagnosis, Patient Care",Empathy,Desk,Medical Doctor
